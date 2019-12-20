@@ -20,3 +20,6 @@
 				git remote add origin https://git.oschina.net/你的用户名/项目名.git <绑定远端仓库>
 				git push -u origin master  ※：此时因为缺少远端仓库的文件 会push失败
 				git pull --rebase origin master  <获取文件再执行push>
+
+
+	hello add it
